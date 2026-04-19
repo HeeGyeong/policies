@@ -1,0 +1,10 @@
+title: HeeGyeong — App Policies
+description: 개인 개발 안드로이드 앱의 개인정보처리방침 및 법적 문서 모음
+theme: jekyll-theme-minimal
+lang: ko
+
+# Each app is a sub-package under this site root
+# URL layout:
+#   /                 — this index
+#   /shiftsleep/      — ShiftSleep privacy policy
+#   /plantcare/       — PlantCare privacy policy
