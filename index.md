@@ -6,6 +6,7 @@
 
 - **[ShiftSleep](shiftsleep/)** — 교대근무자 대상 수면 관리 앱
 - **[PlantCare](plantcare/)** — 식집사 입문자 대상 물주기·성장 일기 앱
+- **[UtilityTrack](utilitytrack/)** — 자취생·1인 가구 대상 공과금·월세 납부 관리 앱
 
 ## 구조
 
@@ -14,7 +15,8 @@
 ```
 policies/
 ├── shiftsleep/      → /shiftsleep/
-└── plantcare/       → /plantcare/
+├── plantcare/       → /plantcare/
+└── utilitytrack/    → /utilitytrack/
 ```
 
 ## 업데이트 방법
