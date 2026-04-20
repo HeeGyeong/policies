@@ -6,7 +6,7 @@
 
 - **ShiftSleep** — <https://heegyeong.github.io/policies/shiftsleep/>
 - **PlantCare** — <https://heegyeong.github.io/policies/plantcare/>
-- **UtilityTrack** — <https://heegyeong.github.io/policies/utilitytrack/>
+- **또박또박** (UtilityTrack) — <https://heegyeong.github.io/policies/utilitytrack/>
 
 ## 레포 구조
 
@@ -20,7 +20,7 @@ policies/
 ├── plantcare/
 │   └── index.md          # PlantCare 개인정보처리방침 (ko + en)
 └── utilitytrack/
-    └── index.md          # UtilityTrack 개인정보처리방침 (ko + en)
+    └── index.md          # 또박또박 개인정보처리방침 (ko + en)
 ```
 
 앱을 추가할 때는 새 폴더 (`{app}/index.md`) 만 추가하면 됩니다. `_config.yml`이나 루트 `index.md`에 링크를 한 줄 추가하는 것이 좋습니다.
@@ -32,5 +32,5 @@ policies/
 
 ## 업데이트 이력
 
-- **2026-04-20** — UtilityTrack 정책 추가 (공과금·월세 납부 관리 앱)
+- **2026-04-20** — UtilityTrack 정책 추가 → Play Store 브랜드 "또박또박 — 월세·공과금 알림"으로 변경
 - **2026-04-19** — PlantCare 정책 추가, 기존 shiftsleep-legal 레포 내용을 하위 패키지 `shiftsleep/`로 통합

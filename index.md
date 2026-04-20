@@ -6,7 +6,7 @@
 
 - **[ShiftSleep](shiftsleep/)** — 교대근무자 대상 수면 관리 앱
 - **[PlantCare](plantcare/)** — 식집사 입문자 대상 물주기·성장 일기 앱
-- **[UtilityTrack](utilitytrack/)** — 자취생·1인 가구 대상 공과금·월세 납부 관리 앱
+- **[또박또박](utilitytrack/)** — 자취생·1인 가구 대상 월세·공과금 납부 관리 앱 (Play Store 명: "또박또박 — 월세·공과금 알림")
 
 ## 구조
 
